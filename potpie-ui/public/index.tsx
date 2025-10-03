@@ -1,0 +1,12 @@
+import ExportIcon from "./images/expand.svg";
+import CloseTab from "./images/closeTab.svg";
+import SendIcon from "./images/send.svg";
+import arrowcon from "./images/arrow.svg";
+import chat from "./images/chat.svg";
+import cloud from "./images/cloud.svg";
+import cross from "./images/cross.svg";
+import logoWithText from "./images/potpie logowithtext.svg";
+import setting from "./images/setting.svg";
+import logo60 from "./images/logo60.svg";
+import sendBlue from "./images/sendBlue.svg";
+export { ExportIcon,sendBlue,setting,logo60, CloseTab, SendIcon, arrowcon, chat, cloud, cross, logoWithText };      
